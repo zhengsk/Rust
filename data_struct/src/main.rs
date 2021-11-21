@@ -49,6 +49,7 @@ fn main() {
 
     let daer = User {
         name: String::from("daer"),
+        age: 18,
         ..lily
     };
 
